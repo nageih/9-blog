@@ -520,7 +520,7 @@ comments:
   # Leave it empty if you don't need comments
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
   # Format of two comments system : Disqus,Waline
-  use: twikoo
+  use: Waline
   # Display the comment name next to the button
   text: false
   # Lazyload: The comment system will be load when comment element enters the browser's viewport.
@@ -576,10 +576,10 @@ valine:
 # Waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
 waline:
-  serverURL:
+  serverURL: comment.9.vmct-cn.top
   bg:
   # Use Waline pageview count as the page view count
-  pageview: false
+  pageview: true
   option:
 
 # Utterances
@@ -736,9 +736,9 @@ site_verification:
 # Theme color for customize
 # Notice: color value must in double quotes like "#000" or may cause error!
 
-# theme_color:
-#   enable: true
-#   main: "#771D68"
+theme_color:
+    enable: true
+    main: "#771D68"
 #   paginator: "#00c4b6"
 #   button_hover: "#FF7242"
 #   text_selection: "#00c4b6"
