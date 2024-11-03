@@ -285,7 +285,7 @@ aside:
     button:
       enable: false
       icon: fab fa-github
-      text: Follow Me
+      text: 在GitHub上关注
       link: https://github.com/nageih/9-blog
   card_announcement:
     enable: true
