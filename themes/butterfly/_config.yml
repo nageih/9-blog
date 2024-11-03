@@ -286,7 +286,7 @@ aside:
       enable: false
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/nageih/9-blog
   card_announcement:
     enable: true
     content: 仅供测试
